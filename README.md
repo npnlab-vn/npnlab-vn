@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/npnlab-vn/npnlab-vn/blob/main/microbit.gif" width="2400px" align="center">
+</p>
+
+---
+
 - 👋 Hi, I’m @npnlab-vn
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
