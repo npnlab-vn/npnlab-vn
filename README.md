@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://github.com/npnlab-vn/npnlab-vn/blob/main/microbit.gif" width="2400px" align="center">
+  <img src="https://github.com/npnlab-vn/npnlab-vn/blob/main/gif/microbit_2.gif" width="2400px" align="center">
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" align="center">
+</p>
+
 
 - 👋 Hi, I’m @npnlab-vn
 - 👀 I’m interested in ...
